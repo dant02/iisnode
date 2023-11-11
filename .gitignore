@@ -4,6 +4,7 @@
 [Rr]etail/
 [Rr]elease/
 ipch/
+.vs/
 *.sln.cache
 *.suo
 *.user
